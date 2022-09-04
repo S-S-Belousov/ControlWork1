@@ -1,0 +1,15 @@
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\bin\Debug\net6.0\ControlWork1.exe
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\bin\Debug\net6.0\ControlWork1.deps.json
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\bin\Debug\net6.0\ControlWork1.runtimeconfig.json
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\bin\Debug\net6.0\ControlWork1.dll
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\bin\Debug\net6.0\ControlWork1.pdb
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.csproj.AssemblyReference.cache
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.GeneratedMSBuildEditorConfig.editorconfig
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.AssemblyInfoInputs.cache
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.AssemblyInfo.cs
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.csproj.CoreCompileInputs.cache
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.dll
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\refint\ControlWork1.dll
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.pdb
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ControlWork1.genruntimeconfig.cache
+F:\2Tb\ss.belousov\OneDrive\Рабочий стол\HomeWork\ControlWork1\obj\Debug\net6.0\ref\ControlWork1.dll
